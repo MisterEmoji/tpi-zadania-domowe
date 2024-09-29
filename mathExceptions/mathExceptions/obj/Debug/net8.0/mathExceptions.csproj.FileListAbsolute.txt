@@ -1,0 +1,15 @@
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\bin\Debug\net8.0\mathExceptions.exe
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\bin\Debug\net8.0\mathExceptions.deps.json
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\bin\Debug\net8.0\mathExceptions.runtimeconfig.json
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\bin\Debug\net8.0\mathExceptions.dll
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\bin\Debug\net8.0\mathExceptions.pdb
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\mathExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\mathExceptions.AssemblyInfoInputs.cache
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\mathExceptions.AssemblyInfo.cs
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\mathExceptions.csproj.CoreCompileInputs.cache
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\mathExceptions.sourcelink.json
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\mathExceptions.dll
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\refint\mathExceptions.dll
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\mathExceptions.pdb
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\mathExceptions.genruntimeconfig.cache
+C:\Users\MrEmoji\source\repos\mathExceptions\mathExceptions\obj\Debug\net8.0\ref\mathExceptions.dll
