@@ -1,0 +1,15 @@
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\bin\Debug\net8.0\fileReader.exe
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\bin\Debug\net8.0\fileReader.deps.json
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\bin\Debug\net8.0\fileReader.runtimeconfig.json
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\bin\Debug\net8.0\fileReader.dll
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\bin\Debug\net8.0\fileReader.pdb
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\fileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\fileReader.AssemblyInfoInputs.cache
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\fileReader.AssemblyInfo.cs
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\fileReader.csproj.CoreCompileInputs.cache
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\fileReader.sourcelink.json
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\fileReader.dll
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\refint\fileReader.dll
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\fileReader.pdb
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\fileReader.genruntimeconfig.cache
+C:\Users\MrEmoji\source\repos\fileReader\fileReader\obj\Debug\net8.0\ref\fileReader.dll
