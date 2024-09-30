@@ -1,0 +1,11 @@
+text = str("Jestem Anna i mam 18 lat.")
+print(str.upper(text))
+print(text.lower())
+print(text.replace("Anna", "Szymon"))
+print(text.replace(" ", "_"))
+print(text[::-1])
+print(str(' ').join(text.split(" ")[::-1]))
+print(text + " Chodzę do technikum.")
+print(str('\' ').join(text[::3]))
+print(len(text))
+
